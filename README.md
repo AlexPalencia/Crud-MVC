@@ -11,3 +11,4 @@ Contiene todo lo relacionado a Crud y mvc de diferentes lenguajes de programacio
 ## Participantes
 
 - Sebastian Roa Meneses https://github.com/serome111
+- Alex Andrés Palencia Aragonéz https://github.com/alexpalencia97
